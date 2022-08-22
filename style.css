@@ -1,10 +1,12 @@
 body {
-    background: #CCCCCC
+   
 }
 
 #banner {
     width: 100%;
 }
+.Principal{
+  background: #CCCCCC
 
 h1 {
     text-align: center
@@ -27,3 +29,6 @@ em strong {
 .Beneficios {
     background: #FFFFFF;
 }
+    h2{
+      text-aling: center;
+    }
