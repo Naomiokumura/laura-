@@ -8,7 +8,7 @@ body {
 .Principal{
   background: #CCCCCC
 
-h1 {
+.titulo-centralizado {
     text-align: center;
 }
 
@@ -30,9 +30,7 @@ em strong {
     background: #FFFFFF;
    padding: 20px;
 }
-    h2{
-      text-aling: center;
-    }
+   
    ul {
     display: inline-block;
     vertical-align: top;
