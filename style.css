@@ -9,7 +9,7 @@ body {
   background: #CCCCCC
 
 h1 {
-    text-align: center
+    text-align: center;
 }
 
 p {
@@ -28,7 +28,14 @@ em strong {
 }
 .Beneficios {
     background: #FFFFFF;
+   padding: 20px;
 }
     h2{
       text-aling: center;
     }
+   ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
